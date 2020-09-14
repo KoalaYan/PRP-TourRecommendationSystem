@@ -6,9 +6,6 @@ import datetime
 import numpy as np
 import copy
 
-"""
-    Toy task 3: counting
-"""
 def get_real_arr(arr):
     """
     返回删除所有空值后的arr
